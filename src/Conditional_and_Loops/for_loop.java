@@ -1,6 +1,4 @@
-package Loops;
-
-import java.sql.SQLOutput;
+package Conditional_and_Loops;
 
 public class for_loop {
     public static void main(String[] args) {
