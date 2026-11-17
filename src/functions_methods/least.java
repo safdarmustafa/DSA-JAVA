@@ -1,4 +1,4 @@
-package functions_by_raghav;
+package functions_methods;
 import java.util.Scanner;
 public class least {
     public static void main (String [] args ) {

@@ -1,6 +1,6 @@
-package functions_by_raghav;
+package functions_methods;
 import java.util.Scanner;
-public class methods {
+public class inbuilt_library {
     static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
